@@ -14,7 +14,7 @@ void Number( int A)
 }
 int main()
 {
-	int a,b;
+	int a;
 	cout << "Enter the number:	";
 	cin >> a;
 	if( a>0)
